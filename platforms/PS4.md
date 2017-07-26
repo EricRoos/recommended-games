@@ -11,3 +11,7 @@
 * <a name="horizon-zero-dawn">[Horizon Zero Dawn](https://www.gamefaqs.com/ps4/168644-horizon-zero-dawn)
 * <a name="persona-5">[Persona 5](https://www.gamefaqs.com/ps4/835628-persona-5)
 * <a name="world-of-final-fantasy">[World of Final Fantasy](https://www.gamefaqs.com/ps4/168651-world-of-final-fantasy)
+
+## Shooter
+
+* <a name="prey">[Prey](https://www.gamefaqs.com/ps4/191473-prey)

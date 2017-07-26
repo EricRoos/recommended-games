@@ -2,6 +2,7 @@
 
 ## By Genre
 
+* [Action Adventure](genres/action-adventure.md)
 * [Puzzle](genres/puzzle.md)
 * [Role Playing](genres/role-playing.md)
 * [Strategy](genres/strategy.md)

@@ -1,0 +1,5 @@
+# Recommended Puzzle Games
+
+## Nintendo 64
+
+* <a name="tetrisphere">[Tetrisphere](https://www.gamefaqs.com/n64/198946-tetrisphere) - [(download)](https://www.dropbox.com/s/uwr7tx6n8ofv22l/tetrisphere.zip?dl=0) - 3f88078e2d9dbf6c9372f6373cf9ae09

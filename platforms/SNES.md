@@ -1,5 +1,9 @@
 # Recommended Super Nintendo Entertainment System Games
 
+## Racing
+
+* <a name="f-zero">[F-Zero](https://www.gamefaqs.com/snes/588351-f-zero) - [(download)](https://www.dropbox.com/s/y15m4wkhshmlew1/f-zero.zip?dl=0) - 43bf7426ae8d2fc55f3a037d6ffd2557
+
 ## Role Playing
 
 * <a name="final-fantasy-iv">[Final Fantasy IV](https://www.gamefaqs.com/snes/588330-final-fantasy-iv) - [(download)](https://www.dropbox.com/s/bkok8afr18825x7/final-fantasy-iv.zip?dl=0) - 4fa9e542b954dcb954d5ce38188d9d41 - [[better version available]](PSP.md#final-fantasy-iv-the-complete-collection)

@@ -4,6 +4,7 @@
 
 * [Action Adventure](genres/action-adventure.md)
 * [Puzzle](genres/puzzle.md)
+* [Racing](genres/racing.md)
 * [Role Playing](genres/role-playing.md)
 * [Strategy](genres/strategy.md)
 

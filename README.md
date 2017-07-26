@@ -19,7 +19,7 @@
 * [Nintendo Entertainment System](platforms/NES.md)
 * [Super Nintendo Entertainment System](platforms/SNES.md)
 * [Nintendo 64](platforms/N64.md)
-* [GameCube](platforms/N64.md)
+* [GameCube](platforms/NGC.md)
 * [Wii](platforms/WII.md)
 * [Wii U](platforms/WIIU.md)
 * [Switch](platforms/NS.md)

@@ -2,7 +2,7 @@
 
 ## Microsoft Xbox 360
 
-* <a name="eternal-sonata-360">[Eternal Sonata](https://www.gamefaqs.com/xbox360/934162-eternal-sonata) [[better version available]](#eternal-sonata-ps3)
+* <a name="eternal-sonata-360">[Eternal Sonata](https://www.gamefaqs.com/xbox360/934162-eternal-sonata) - [[better version available]](#eternal-sonata-ps3)
 
 ## Super Nintendo Entertainment System
 
